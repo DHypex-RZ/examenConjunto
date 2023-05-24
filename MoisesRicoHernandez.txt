@@ -1,3 +1,4 @@
 versión original
-v1
-nueva feature
+v2
+nueva feature completada
+
